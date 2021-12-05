@@ -1,5 +1,21 @@
 # for brand website building
 
+* backlink check and first spot 
+
+https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html
+
+![image](https://user-images.githubusercontent.com/2363295/144747746-7d352d02-9221-4384-b538-4188c7b3edc7.png)
+
+* website update strategy
+
+https://web.archive.org
+
+![image](https://user-images.githubusercontent.com/2363295/144747796-23cceb47-da4e-4904-b3c9-956a082688fd.png)
+
+
+
+
+
 * GUI aid WAVE Web Accessibility Evaluation Tool.
 click icon to see the detailed info and code you need to adjust
 https://wave.webaim.org/            
