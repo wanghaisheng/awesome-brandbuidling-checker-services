@@ -1,3 +1,22 @@
+# for brand website building
+
+* GUI aid WAVE Web Accessibility Evaluation Tool.
+click icon to see the detailed info and code you need to adjust
+https://wave.webaim.org/            
+
+![image](https://user-images.githubusercontent.com/2363295/144747516-a7b31eee-025b-4be8-926c-0df734325017.png)
+
+* regular test for your site, specially image optimation  
+
+https://nibbler.silktide.com/en_US/reports/www.pashler.com
+
+https://yellowlab.tools/result/g4vgnpoemh/rule/imageOptimization
+
+
+*  if you are targeting special people
+
+![image](https://user-images.githubusercontent.com/2363295/144747566-0e621550-68f3-4682-8a76-f3af65c7d0ee.png)
+
 # Checker Services ✅
 
 List of links to the various checkers out there on the web for sites, domains, security etc.
